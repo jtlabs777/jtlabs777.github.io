@@ -1,0 +1,175 @@
+body {
+  background-color: black;
+  color: seashell;
+  font-family: Hevetica;
+  opacity: 0.9;
+  min-width: 700px;
+  
+}
+
+header {
+  height: 69px;
+  border-bottom: 1px solid seashell;
+  
+}
+
+header .logo {
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 10px;
+ 
+  
+}
+
+header nav {
+   float: right;
+   display: flex;
+  
+   
+   
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  font-size: 1.6rem;
+  margin: 0;
+}
+
+nav ul li {
+  padding: 20px;
+  
+}
+
+ul li a {
+  
+  color: seashell;
+}
+
+.main-container {
+   display: flex; 
+   flex-direction: column;
+   align-content: center;
+   justify-content: center;
+   max-width: 1500px;
+   
+}
+
+
+
+/* Mission section */
+.mission { 
+  background-image: url(../images/img-mission-background.webp);
+  height: 700px;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: flex-start;
+  margin: auto;
+  margin-bottom: 20px;
+  
+}
+
+.mission-statement {  /* container class */
+  background: rgba(0, 0, 0, 0.5);
+  width: 1200px;
+  flex-basis: 100px;
+  text-align: center;
+  font-size:x-large;
+ 
+}
+
+cd 
+
+/*menu items*/
+
+figcaption {
+  text-align: center;
+  font-size: 1.3rem;
+}
+img.menu {
+  height: 200px;
+  width: 300px;
+  
+  
+}
+
+.month {
+  
+}
+.month, .month h2, .month h4 {
+  margin: auto;
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  
+}
+
+.month h2 {
+  font-size: xxx-large;
+  font-weight: bold;
+}
+
+.month h4 {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.menu-images {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 100%;
+  justify-content: center;
+  
+}
+
+.locations {
+  background-image: url('../images/img-locations-background.webp');
+  height: 500px;
+  text-align: center;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.locations h2 {
+  font-weight: bold;
+  font-size: 2em;
+}
+.location-box {
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+}
+
+.box {
+  background-color: black;
+  border: 1px solid white;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  }
+
+  .box h3 {
+    font-weight:1000;
+  }
+  .box h3, .box p {
+    font-size: 1.2rem;
+    margin-top:40px;
+  }
+
+.contact {
+  text-align: center;
+  
+}
+
+
+.contact h5 a {
+  text-decoration: none;
+  color: seashell;
+  font-size: 1.2rem;
+}
