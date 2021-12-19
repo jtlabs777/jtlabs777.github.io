@@ -1,0 +1,117 @@
+
+
+.master-container {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  max-width: 65%;
+  height: 478px;
+  background-color: #f8f8ff;
+  font-family: sans-serif;
+
+
+}
+
+#profile-pic {
+  height: 272px;  
+  background-color: #3ca9c2;
+}
+
+#social-media {
+    height: 206px;
+    background-color: #2F879B;
+}
+
+/*universal Application*/
+
+.description {
+   color: #B1B6BC
+}
+.logo-title {
+
+}
+.logo {
+    height: 30px;
+    width: 30px;
+    filter: invert(53%) sepia(53%) saturate(5839%) hue-rotate(165deg) brightness(100%) contrast(101%);
+}
+
+.title {
+    color: #00A1CC;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: bolder;
+    padding-left: 10px;
+    
+}
+
+
+
+/* SIDEBAR PROFILE */
+
+.profile {
+    height: 175px;
+    width: 175px;
+    border-radius: 90%;
+}
+
+
+/*EXPERIENCES*/
+
+#position h3 {
+    color: #00000099;
+    font-size: 1.1rem;
+}
+
+#position h4, #dates {
+    font-size: .75rem;
+    color: #B1B6BC;
+  }
+
+
+  /*SOCIAL MEDIA*/
+  .links, #name-title {
+      font-family: monospace;
+      color: white;
+      list-style-type: none;
+  }
+
+  .name {
+      
+      font-size: 1.5rem;
+      margin: 0;
+     
+  
+  }
+
+  .my-title {
+      font-size: .90rem;
+  }
+  .media-im {
+    height: 20px;
+    width: 20px;
+    filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(255deg) brightness(105%) contrast(101%);
+  }
+
+  .links {
+      padding-bottom: 25px;
+      
+  }
+
+  #git, #linkedin {
+      display: flex;
+  }
+
+
+.social-links {
+    min-width: 100%;
+    padding: 0;
+    padding-top: 10px;
+}
+  .ctext {
+      margin-left: 10px;
+  }
