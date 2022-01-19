@@ -11400,7 +11400,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: var(--bs-warning);
 }
 
 .dev-icons {
@@ -11432,4 +11432,10 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+
+/*my personal code*/
+.myHover {
+  color: var(--bs-warning);
 }
