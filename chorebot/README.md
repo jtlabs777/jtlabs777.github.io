@@ -10,8 +10,8 @@
   
 *  **Lessons Learned**
 
-This project helped give me a more intuitive understanding of working with the DOM via javascript. I was able to use .querySelctor and .getElementbyID to connect to the DOM
-which enabled me to use document object event handlers to engage the user and make the site game more dynamic. Coding the game logic was also a treat! 
+This project gave me a more intuitive understanding of working with the DOM in Javascript. I used .querySelector() and .getElementbyID() to manipulate various elements. 
+This also enabled me to access event handlers to engage the user in a more dynamic way. Learning and coding the algorythm that made the game work was also a treat. 
 
 
 !['A screenshot of the chorebot project'](./images/screenshot.png)
