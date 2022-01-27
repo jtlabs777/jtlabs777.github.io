@@ -14,7 +14,7 @@ This project helped give me a more intuitive understanding of working with the D
 which enabled me to use document object event handlers to engage the user and make the site game more dynamic. Coding the game logic was also a treat! 
 
 
-!['A screenshot of the chorebot project'](./chorebot/images/screenshot.png)
+!['A screenshot of the chorebot project'](./images/screenshot.png)
 
 
 
