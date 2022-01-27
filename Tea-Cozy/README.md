@@ -9,4 +9,4 @@
  the CSS flex value for the display property. I also know why certain flex properties belong on the parent or child classes. My gained understaning of how margin and padding affect the box model
  was also valuable. 
  
- ![Screenshot of the TeaCozy website](./Tea-Cozy/images/screenshot.png)
+ ![Screenshot of the TeaCozy website](./images/screenshot.png)
