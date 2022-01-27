@@ -12,4 +12,4 @@ extract the properties I need to extract from the JSON. In this exercise, I work
 with the POST method in other API projects, I used GET exclusively for this one. 
 
 
-![][URL]
+![Wanderlust Screenshot](images/screenshot.png)
