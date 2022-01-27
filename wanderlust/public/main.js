@@ -84,6 +84,7 @@ const renderForecast = (forecast) => {
 };
 
 const executeSearch = () => {
+  
   $placeDivs.forEach(place => place.empty());
   $weatherDiv.empty();
   $destination.empty();
