@@ -1,6 +1,6 @@
 # WanderLust 
 
-* **Objective** - To create an application that reports the local weather and lists the attractions at the travel destinations the user may enter
+* **Objective** - To create an application that reports the local weather and lists local attractions
 * **Purpose**  -  To become versed in API technology, and to familiarize myself with the basic protocols
 * **Prerequisites**  - required familiarity with javascript objects, classes, Async/Await/Promises, and JSON.
 * **Link** - https://jtlabs777.github.io/wanderlust/index.html
