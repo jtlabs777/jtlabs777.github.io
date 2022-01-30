@@ -24,6 +24,7 @@ spaceDoorPath = 'images/space.svg';
 doorImage1.onclick = () => {
 
 if (!(isClicked(doorImage1)) && currentlyPlaying) {
+  console.log('this is not clicking')
 doorImage1.src = openDoor1
 playDoor(doorImage1);
 }
@@ -110,9 +111,12 @@ function isBot(door) {
 
 //without this function, people can cheat by clicking an open door to victory
 function isClicked(door) {
- if(door.src === closedDoorPath) {
+ 
+ if(door.getAttribute('src') === closedDoorPath) {
+   
    return false;
  } else {
+  
    return true;
  }
 }
