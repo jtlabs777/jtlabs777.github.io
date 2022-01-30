@@ -102,7 +102,7 @@ const randomChoreDoorGenerator = () => {
 /* making this into a game */
 //determine if bot is behind door
 function isBot(door) {
-  if (door.src === botDoorPath) {
+  if (door.getAttribute('src') === botDoorPath) {
     return true;
   } else {
     return false;
