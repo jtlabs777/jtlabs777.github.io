@@ -10,7 +10,7 @@
   
 *  **Lessons Learned**
 
-This project gave me a more intuitive understanding of working with the DOM in Javascript. I used .querySelector() and .getElementbyID() to manipulate various elements. 
+This project gave me a more intuitive understanding of working with the DOM in JavaScript. I used .querySelector() and .getElementbyID() to manipulate various elements. 
 This also enabled me to access event handlers to engage the user in a more dynamic way. Learning and coding the algorythm that made the game work was also a treat. 
 
 
